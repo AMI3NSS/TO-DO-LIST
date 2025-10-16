@@ -1,6 +1,6 @@
 const inputField = document.getElementById("inputField");
 const addButton = document.getElementById("btn");
-const container = document.getElementById("wrapper");
+const container = document.getElementById("container");
 
 addButton.addEventListener("click", () => {
   //creating divs
